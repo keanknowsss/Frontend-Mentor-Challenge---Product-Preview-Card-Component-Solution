@@ -31,7 +31,7 @@ Your users should be able to:
 
 ### Screenshot
 
-![](./Screenshot1_png)
+![](./Screenshot_1.png)
 
 ### Links
 
